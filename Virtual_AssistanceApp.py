@@ -1,4 +1,4 @@
-import datetime
+#Python 3
 
 def greet_user():
     print("👋 Hello! I'm HealthMate, your virtual healthcare assistant.")
