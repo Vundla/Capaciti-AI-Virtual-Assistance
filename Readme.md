@@ -1,4 +1,5 @@
 📘 README: Healthcare AI Virtual Assistant
+
 🏥 Overview
 HealthMate is an AI-powered virtual healthcare assistant designed to assist patients with basic health-related queries, appointment reminders, symptom checking, medication reminders, and health education. This lightweight assistant uses natural language processing (NLP) to interpret user inputs and provide relevant, safe responses.
 
